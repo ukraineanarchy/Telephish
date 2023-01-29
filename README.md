@@ -1,6 +1,5 @@
 # Telephish
 
-Phishing instagram,vk,tiktok in telegram
+Phishing accounts in Instagram, Tiktok and VK.
 
-Phishing telegram bots Author:Telegram @lamer112311 Full documentation: 
-https://telegra.ph/Sozdaem-botov-dlya-fishinga-soc-setej-07-24
+https://telegra.ph/Sozdanie-tg-bota-dlya-fishinga-01-29
